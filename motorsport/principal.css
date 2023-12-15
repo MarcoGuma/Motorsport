@@ -1,0 +1,36 @@
+body{
+	background-color: #ebb134;
+	
+}
+h1{
+	text-align: center;
+	color: white;
+	padding-top: 10px;
+}
+p{
+	text-align: justify;
+	color: white;
+	padding-top: 20px;
+}
+h6{
+	color: white;
+}
+ol, ul{
+	color: white;
+	text-align: justify;
+}
+header{
+	text-align: center;
+}
+table, td{
+	border: 1px solid white;
+	text-align: center;
+	color: white;
+}
+th, tr{
+	text-align: center;
+}
+h3{
+	color: white;
+	text-align: center
+}
